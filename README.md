@@ -1,2 +1,2 @@
 # EDA-Movie-Analysis
-Analysing Movie data
+Analysing Movie data for practicing EDA data science
